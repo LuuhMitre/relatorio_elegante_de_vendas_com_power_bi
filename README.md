@@ -7,6 +7,7 @@ O projeto foi elaborado considerando os requisitos do m√≥dulo [Criando um Relat√
 
 ### Sales Report
 
+
 ![Alt text](image.png)
 
 ---
