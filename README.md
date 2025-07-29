@@ -5,12 +5,10 @@ O projeto foi elaborado considerando os requisitos do módulo [Criando um Relat�
 [Santander Bootcamp 2023 - Ciência de Dados com Python](https://web.dio.me/track/santander-bootcamp-2023-ciencia-de-dados-com-python) e é constituído pelos relatórios: **Sales Report** (página 1) e **Report de Lucro Detalhado** (página 2).
 
 
-### Sales Report
 
-
-![Alt text](image.png)
-
----
 ### Report de Lucro Detalhado
 ![Alt text](image-1.png)
 
+---
+### Sales Report
+![Alt text](image.png)
